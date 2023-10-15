@@ -30,3 +30,7 @@ If you experience or witness any behavior that violates this code of conduct, pl
 ## Enforcement
 
 Violations of this code of conduct may result in temporary or permanent bans from the community. The severity of the consequences will depend on the nature and context of the violation.
+
+## Attribution
+
+This code of conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
