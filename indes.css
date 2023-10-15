@@ -1,0 +1,67 @@
+body
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar
+{   
+    height: 50px;
+    width: 100%;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    float: right;
+    
+}
+.navbar  a
+{
+  text-decoration: none;
+  padding-left: 50px;
+  color: white;
+  padding: 0 30px;
+  font-size: large;
+}
+.navbar a:hover
+{
+    color: red;
+    font-size: larger;
+}
+
+.intro
+{
+    
+    display: grid;
+    justify-content: center;
+    color: white;
+    font-size: x-large;
+    width: 850px;
+    height: 400px;
+    padding: 0px 10px;
+    margin: 30px  350px;
+    justify-items: center;
+}
+#element
+{
+    color: rgb(131, 131, 156);
+}
+#dev    
+{
+    color: rgb(72, 135, 156);
+}
+.icons
+{
+    font-weight: bold;
+    font-size: larger;
+    width: 450px;
+    height: 60px;
+    color: white;
+    margin-top: -200px;
+    margin-left: 560px;
+    padding-left: 20px;
+}
+.icons span
+{
+  padding: 0 30px;
+}
