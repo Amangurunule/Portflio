@@ -1,0 +1,14 @@
+body
+{
+    background-color: black;
+    color: whitesmoke;
+}
+#sec-text
+{
+    border: 2px solid white;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center ;
+}
